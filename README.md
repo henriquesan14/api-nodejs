@@ -28,7 +28,7 @@
 **Buscar por id:**
 >GET:  /playlists/id
 
->GET:  /playlists/id
+>GET:  /users/id
 
 **Cadastro :**
 >POST: /playlists
